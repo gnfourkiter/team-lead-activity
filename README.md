@@ -1,2 +1,2 @@
-# Team Lead Activity
+# Support Team Lead Activity
 Project for SLO Creation and Maintenance
